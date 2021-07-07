@@ -88,11 +88,7 @@ This app will let users save and sign up for events that they are interested in.
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
+<img src="https://github.com/jaumep1/EventTracker/blob/main/IMG_9729.png" width=600>
 
 ## Schema 
 [This section will be completed in Unit 9]
